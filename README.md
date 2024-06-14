@@ -68,3 +68,5 @@ john --show hash.txt
 <p>Note: Performing password cracking activities should always be done with proper authorization and within a legal and controlled environment. Ensure that you have the necessary permissions and adhere to applicable laws and regulations.</p>
 
 [D5S2 Final Challenge 2024.pdf](https://github.com/user-attachments/files/15839622/D5S2.Final.Challenge.2024.pdf)
+
+Download document: [CrackThis.pdf](https://github.com/user-attachments/files/15840391/CrackThis.pdf)
